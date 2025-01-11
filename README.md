@@ -19,7 +19,7 @@ _Курсивный текст_
 
 `model.addScene(scene);`
 
-```
+```javascript
 model.addScene(scene);
 model.setOrbitControll(playerControlls);
 model.setObjectLook(light1);
