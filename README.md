@@ -1,11 +1,14 @@
 
 
 
-### Hi, my name is KANTNOLI 🧐 and you are on my page 
+### Hi, my name is Zakhar Gusev 🧐 and you are on my page 
 
 <img height='180px' src="https://media1.tenor.com/m/Ywma7l0YcJMAAAAd/cat-kitten.gif" alt="">
 
+### About me
+> I’m a fullstack developer experienced in frontend and backend. I created my own 3D engine. Programming is my work, hobby, and way to grow.
 
+### Tools
 **C++, JavaScript, TypeScript**
 <p>
   <img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" />&nbsp;&nbsp;
