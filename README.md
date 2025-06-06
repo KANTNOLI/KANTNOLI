@@ -6,7 +6,8 @@
 <img height='180px' src="https://media1.tenor.com/m/Ywma7l0YcJMAAAAd/cat-kitten.gif" alt="">
 
 ### About me
-> I’m a fullstack developer experienced in frontend and backend. I created my own 3D engine. Programming is my work, hobby, and way to grow.
+> I’m a fullstack developer experienced in frontend and backend. \
+> I created my own 3D engine. Programming is my work, hobby, and way to grow.
 
 ### Tools
 **C++, JavaScript, TypeScript**
@@ -53,4 +54,4 @@
 </p>
 
 ## My stats
-![Statistics commits](https://streak-stats.demolab.com/?user=KANTNOLI&theme=cobalt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Job evaluation](https://github-readme-stats.vercel.app/api?username=KANTNOLI&show_icons=true&theme=material-palenight)
+![Statistics commits](https://streak-stats.demolab.com/?user=KANTNOLI&theme=cobalt)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
