@@ -79,7 +79,7 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 📖 [Documentation (Wiki)](https://wiki.kantnoli.wtf/wiki)     | 📦 [npm package](https://www.npmjs.com/package/kgengine)     |
+| 📖 [Documentation (Wiki)](https://wiki.kantnoli.wtf/wiki?s=1&p=0)     | 📦 [npm package](https://www.npmjs.com/package/kgengine)     |
 | 🧑‍💻 [GitHub repo](https://github.com/KANTNOLI/kgengine)       | 📄 [GPLv3 License](https://github.com/KANTNOLI/kgengine/blob/main/LICENSE.md) |
 
 ---
