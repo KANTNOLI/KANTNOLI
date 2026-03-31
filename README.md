@@ -73,8 +73,7 @@
 - Framework‑agnostic (React, Vue, Svelte, Angular, vanilla)
 
 <div align="center">
-  <!-- 🔁 Замени на свою гифку демонстрации работы KGEngine -->
-  <img src="/assets/kgengine-demo.gif" alt="KGEngine demo" width="80%"/>
+  <img src="https://github.com/user-attachments/assets/4894cd8b-1766-40d3-ba94-c63f403dad64" alt="KGEngine demo" width="80%"/>
 </div>
 
 |                                                              |                                                              |
